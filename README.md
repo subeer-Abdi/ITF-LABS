@@ -1,6 +1,6 @@
 # CompTIA ITF+ Practice Labs
 
-## 📌 About This Repository
+##  About This Repository
 This repository contains my hands-on practice labs for CompTIA IT Fundamentals (ITF+).
 
 The purpose of these labs is to:
@@ -10,7 +10,7 @@ The purpose of these labs is to:
 
 ---
 
-## 🎯 Topics Covered
+##  Topics Covered
 - Hardware Basics
 - Software Concepts
 - Networking Fundamentals
@@ -20,7 +20,7 @@ The purpose of these labs is to:
 
 ---
 
-## 📂 Lab Organization
+##  Lab Organization
 Each lab is documented by day and topic.
 
 Examples:
@@ -31,7 +31,7 @@ Examples:
 
 ---
 
-## 🚀 Tools Used
+##  Tools Used
 - Virtual Machines
 - Linux Terminal
 - GitHub
@@ -39,9 +39,9 @@ Examples:
 
 ---
 
-## 📈 Progress
+##  Progress
 I will continue updating this repository as I complete more labs.
 
 ---
 
-⭐ Learning step by step toward becoming an IT professional.
+ Learning step by step toward becoming an IT professional.
